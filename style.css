@@ -1,0 +1,16 @@
+*{
+    margin: 1px;
+    padding: 0px;
+    background-color: rgb(246, 241, 241);
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px
+}
+.heading-button{
+    padding: 10px 15px;
+    border: 2px solid green;
+    font-weight: bold;
+    color: green;
+    }
